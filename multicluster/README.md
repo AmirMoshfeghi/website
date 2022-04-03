@@ -8,3 +8,4 @@ laid out as follows:
   manifest and add namespaces.
 - `west` - Modify the color and naming.
 - `east` - Modify the color and naming.
+- `south` - Modify the color and naming.
